@@ -1,11 +1,12 @@
 Hi there! I'm Furkan Egecan Nizam 👋
 
+&nbsp; 
 
 🚀 About Me
 
 I'm an AI Engineer, Data Scientist, and AI Integration Specialist with 2+ years of experience in AI-driven solutions, specializing in machine learning, deep learning, and secure AI models. I have worked at leading organizations in Türkiye and a Swedish startup, delivering impactful AI implementations in aerospace, blockchain security, and industrial applications.
 
-
+&nbsp; 
 
 💡 Expertise
 
@@ -17,6 +18,7 @@ I'm an AI Engineer, Data Scientist, and AI Integration Specialist with 2+ years 
 
 -> Cloud & DevOps (Microsoft Azure, Docker, PostgreSQL)
 
+&nbsp; 
 
 
 🏆 Achievements
@@ -30,10 +32,13 @@ I'm an AI Engineer, Data Scientist, and AI Integration Specialist with 2+ years 
 -> Ministry of Transport and Infrastructure: Developed AI models reducing bus crash reporting time by 91.6% and implemented a custom labeling system with 95%+ accuracy.
 
 
+&nbsp; 
 
 🎓 Education
 
 📚 Gazi University, Ankara/Türkiye – B.Sc. in Computer Engineering (GPA: 3.93/4.00) (09/2022 – 06/2026)
+
+&nbsp; 
 
 📫 Get in Touch
 
@@ -42,6 +47,8 @@ I'm an AI Engineer, Data Scientist, and AI Integration Specialist with 2+ years 
 📧 Email: nizamfurkanegecan@gmail.com
 
 🔗 LinkedIn: Furkan Egecan Nizam
+
+&nbsp; 
 
 
 
