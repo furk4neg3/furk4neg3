@@ -1,55 +1,61 @@
-Hi there! I'm Furkan Egecan Nizam 👋
+# 👨‍💻 Furkan Egecan Nizam
 
-&nbsp; 
+**Data Scientist | AI Engineer**  
+📍 Ankara, Türkiye  
+📧 nizamfurkanegecan@gmail.com  
+📞 +90 530 594 41 31  
+🔗 [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam)
 
-🚀 About Me
+---
 
-I'm an AI Engineer, Data Scientist, and AI Integration Specialist with 2+ years of experience in AI-driven solutions, specializing in machine learning, deep learning, and secure AI models. I have worked at leading organizations in Türkiye and a Swedish startup, delivering impactful AI implementations in aerospace, blockchain security, and industrial applications.
+## 🚀 About Me
 
-&nbsp; 
+I'm a Computer Engineering student at Gazi University (GPA: **3.93**) with hands-on experience in AI, data science, and systems engineering. I’ve led impactful projects in **federated learning, aerospace AI**, and **traffic prediction**, delivering real-world results with smart, scalable tech.
 
-💡 Expertise
+---
 
--> AI Integration & Deep Learning (PyTorch, TensorFlow)
+## 🧠 What I Do
 
--> Data Science & Machine Learning
+- 🔬 AI model development (PyTorch, TensorFlow)
+- 🔒 Federated learning + blockchain for privacy-first AI
+- ✈️ AI in aerospace systems (critical safety + performance)
+- 📊 Data science for transport & infrastructure
+- ☁️ Azure, Docker, SQL, and system-level documentation (SRS, SSS)
 
--> Blockchain & Federated Learning for AI Security
+---
 
--> Cloud & DevOps (Microsoft Azure, Docker, PostgreSQL)
+## 🏆 Highlights
 
-&nbsp; 
+- **Built AI systems** for Türkiye's aerospace sector, reducing processing time by **6×**.
+- **Reduced product return rates by 37%** at a Swedish startup using body fit prediction models.
+- **Labeled massive transport datasets** with 95%+ accuracy; cut crash report delays by **91.6%**.
+- Designed a **secure federated learning architecture** on blockchain for privacy-critical data.
 
+---
 
-🏆 Achievements
+## 🎓 Education
 
--> Turkish Aerospace (TAI): Integrating AI into critical systems, reducing human-induced errors, and optimizing operational efficiency. Led discussions and AI-driven innovations, reducing processing time by 6x.
+**Gazi University**  
+*B.Sc. in Computer Engineering*  
+GPA: **3.93/4.00**  
+📍 Ankara, Türkiye  
+📅 2022 – 2026
 
--> IEEE Blockchain Turkey: Developing a federated learning AI model on blockchain to ensure secure AI updates and encrypted data sharing.
+---
 
--> Superstratum Ltd. (Sweden): Led AI development, enhancing product recommendations by 37% and accelerating development by 60%.
+## 🛠️ Stack
 
--> Ministry of Transport and Infrastructure: Developed AI models reducing bus crash reporting time by 91.6% and implemented a custom labeling system with 95%+ accuracy.
+Languages: Python, SQL, C 
 
+Frameworks: PyTorch, TensorFlow, Scikit-learn 
 
-&nbsp; 
+Tools: Docker, Azure, Git, VS Code 
 
-🎓 Education
+Other: Blockchain AI, Federated Learning, System Engineering Docs
 
-📚 Gazi University, Ankara/Türkiye – B.Sc. in Computer Engineering (GPA: 3.93/4.00) (09/2022 – 06/2026)
+---
 
-&nbsp; 
+## 📫 Let’s Connect!
 
-📫 Get in Touch
-
-📍 Location: Ankara, Türkiye
-
-📧 Email: nizamfurkanegecan@gmail.com
-
-🔗 LinkedIn: Furkan Egecan Nizam
-
-&nbsp; 
-
-
-
-🚀 Let's collaborate on AI-driven innovations!
+Always up for tech talk, collabs, or AI projects!  
+Reach out via [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam) or email me: **nizamfurkanegecan@gmail.com**
