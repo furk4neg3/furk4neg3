@@ -3,7 +3,6 @@
 **Data Scientist | AI Engineer**  
 📍 Ankara, Türkiye  
 📧 nizamfurkanegecan@gmail.com  
-📞 +90 530 594 41 31  
 🔗 [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam)
 
 ---
