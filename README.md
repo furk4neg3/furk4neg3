@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering student at Gazi University (GPA: **3.93**) with hands-on experience in AI, data science, and systems engineering. I’ve led impactful projects in **federated learning, aerospace AI**, and **traffic prediction**, delivering real-world results with smart, scalable tech.
+I'm a Computer Engineering student at Gazi University (GPA: **3.93/4.00**) with hands-on experience in AI, data science, and systems engineering. I’ve led impactful projects in **federated learning, aerospace AI**, and **traffic prediction**, delivering real-world results with smart, scalable tech.
 
 ---
 
