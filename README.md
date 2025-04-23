@@ -26,7 +26,7 @@ I'm a Computer Engineering student at Gazi University (GPA: **3.93**) with hands
 
 ## 🏆 Highlights
 
-- **Built AI systems** for Türkiye's aerospace sector, reducing processing time by **6×**.
+- **Built AI systems** for Türkiye's largest aerospace company, TAI, reducing processing time by **6×**.
 - **Reduced product return rates by 37%** at a Swedish startup using body fit prediction models.
 - **Labeled massive transport datasets** with 95%+ accuracy; cut crash report delays by **91.6%**.
 - Designed a **secure federated learning architecture** on blockchain for privacy-critical data.
