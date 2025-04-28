@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering student at Gazi University (GPA: **3.93/4.00**) with hands-on experience in AI, data science, and systems engineering. I’ve led impactful projects in **federated learning, aerospace AI**, and **traffic prediction**, delivering real-world results with smart, scalable tech.
+I'm a Computer Engineering student at Gazi University (GPA: **3.93/4.00**) with hands-on experience in AI, data science, and systems engineering. I’ve led impactful projects and researches in **federated learning, aerospace AI**, and **traffic prediction**, delivering real-world results with smart, scalable tech.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a Computer Engineering student at Gazi University (GPA: **3.93/4.00**) with 
 - **Built AI systems** for Türkiye's largest aerospace company, TAI, reducing processing time by **6×**.
 - **Reduced product return rates by 37%** at a Swedish startup using body fit prediction models.
 - **Labeled massive transport datasets** with 95%+ accuracy; cut crash report delays by **91.6%**.
-- Designed a **secure federated learning architecture** on blockchain for privacy-critical data.
+- Conducted applied research on a **secure federated learning architecture** using blockchain for privacy-critical data (to be made public around May 15th).
 
 ---
 
@@ -44,11 +44,11 @@ GPA: **3.93/4.00**
 
 ## 🛠️ Stack
 
-Languages: Python, SQL, C 
+Languages: Python, SQL, C, C++ 
 
-Frameworks: PyTorch, TensorFlow, Scikit-learn 
+Frameworks: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib, Pandas 
 
-Tools: Docker, Azure, Git, VS Code 
+Tools: Docker, Azure, CUDA, Git, VS Code, Google Colab 
 
 Other: Blockchain AI, Federated Learning, System Engineering Docs
 
