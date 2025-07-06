@@ -27,7 +27,7 @@ I'm a Computer Engineering student at Gazi University (GPA: **3.91/4.00**) with 
 - **Improved Jotform's Model Context Protocol (MCP)** readability, maintainability, and error handling, and added new operations to extend its functionality, contributing to more robust and scalable AI interactions.
 - **Reduced product return rates by 37%** at a Swedish startup using body fit prediction models.
 - **Labeled massive transport datasets** with 95%+ accuracy; cut crash report delays by **91.6%**.
-- Conducted applied research on a **secure federated learning architecture** using blockchain for privacy-critical data (to be made public around May 15th).
+- Conducted applied research on a **secure federated learning architecture** using blockchain for privacy-critical data.
 
 ---
 ## 🎓 Education
