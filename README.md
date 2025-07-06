@@ -1,5 +1,5 @@
 # 👨‍💻 Furkan Egecan Nizam
-**Data Scientist | AI Engineer**
+**Data Scientist**
 
 📍 Ankara, Türkiye
 
