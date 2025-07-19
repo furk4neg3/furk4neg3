@@ -1,59 +1,66 @@
 # 👨‍💻 Furkan Egecan Nizam
-**Data Scientist**
+**AI Engineer & Data Scientist**
 
-📍 Ankara, Türkiye
-
-📧 nizamfurkanegecan@gmail.com
-
+📍 Ankara, Türkiye  
+📧 nizamfurkanegecan@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam)
+
 ---
+
 ## 🚀 About Me
-I'm a Computer Engineering student at Gazi University (GPA: **3.91/4.00**) with hands-on experience in **AI, data science, and systems engineering**. I’ve led impactful projects and research in **federated learning, aerospace AI, and traffic prediction**, delivering real-world results with smart, scalable tech. Currently, I'm enhancing my skills as a Data Science Intern at Jotform, focusing on **AI-driven solutions and advanced protocol design**.
+
+I'm a Computer Engineering student at **Gazi University** (GPA: **3.91/4.00**) with deep interest and hands-on experience in **AI, data science, federated learning**, and **system-level engineering**. I’ve led impactful projects across **aerospace, transportation, and SaaS AI**, delivering measurable results through scalable, intelligent solutions.
+
+Currently, I’m a **Data Science Intern at Jotform**, building tools to preview and evaluate AI agent behavior in real-time. My focus is on **AI-driven workflows, protocol design**, and bridging the gap between model development and production deployment.
 
 ---
+
 ## 🧠 What I Do
-- 🔬 **AI Model Development** (PyTorch, TensorFlow)
-- 🔒 **Federated Learning + Blockchain** for privacy-first AI
-- ✈️ **AI in Aerospace Systems** (critical safety + performance)
-- 📊 **Data Science for Transport & Infrastructure**
-- 💬 **GPT API & Tools Integration** for advanced AI applications
-- ⚙️ **Model Context Protocol (MCP) Design & Optimization**
-- ☁️ **Azure, Docker, SQL**, and system-level documentation (SRS, SSS)
+
+- 🧠 **LLM-Powered App Development** (GPT, Function Calling, Prompt Engineering)
+- 🔒 **Federated Learning + Blockchain** for privacy-centric AI pipelines
+- ✈️ **Aerospace AI Systems** (real-time safety and prediction)
+- 📈 **Data Science for Transport, E-Commerce & Infrastructure**
+- 🧪 **Model Context Protocol (MCP)** design & tooling
+- ☁️ **Cloud & DevOps:** Azure, Docker, SQL, CI pipelines
+- 📄 **System Docs:** SRS, SSS, ICD for AI & embedded systems
 
 ---
+
 ## 🏆 Highlights
-- **Built AI systems** for Türkiye's largest aerospace company, TAI, reducing processing time by **6×**.
-- **Developed an AI Note-Taking Assistant** using GPT-4.1-powered conversations for seamless personal knowledge management, featuring dynamic note commands, automated highlight extraction, and comprehensive note management functionalities.
-- **Improved Jotform's Model Context Protocol (MCP)** readability, maintainability, and error handling, and added new operations to extend its functionality, contributing to more robust and scalable AI interactions.
-- **Reduced product return rates by 37%** at a Swedish startup using body fit prediction models.
-- **Labeled massive transport datasets** with 95%+ accuracy; cut crash report delays by **91.6%**.
-- Conducted applied research on a **secure federated learning architecture** using blockchain for privacy-critical data.
+
+- 🚀 **Built Jotform’s AI Agent Preview Tool** (React + Flask): lets devs test AI Agent changes (knowledge, persona, actions) in real time. Used GPT to generate test prompts and automate validation.
+- ✈️ **Reduced compute time by 6×** at Türkiye’s leading aerospace company (TAI) using predictive AI systems.
+- 🧠 **Developed AI Note-Taking Assistant** (GPT-4.1) with conversation-aware commands, smart highlights, and multi-note memory.
+- 🔐 **Designed secure federated learning protocol** with blockchain support for healthcare/finance-grade data privacy.
+- 📦 **Reduced return rates by 37%** via AI-driven body fit prediction for a Nordic fashion tech startup.
+- 🚧 **Labeled transport datasets (95%+ accuracy)** and cut crash report delays by **91.6%**.
 
 ---
+
 ## 🎓 Education
 
-**Gazi University**
-
-*B.Sc. in Computer Engineering*
-
-GPA: **3.91/4.00**
-
-📍 Ankara, Türkiye
-
+**Gazi University**  
+*B.Sc. in Computer Engineering*  
+GPA: **3.91/4.00**  
+📍 Ankara, Türkiye  
 📅 2022 – 2026
 
 ---
-## 🛠️ Stack
-**Languages:** Python, SQL, C, C++
 
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib, Pandas, Flask
+## 🛠️ Tech Stack
 
-**Tools:** Docker, Azure, CUDA, Git, VS Code, Google Colab, OpenAI SDK
-
-**Other:** Blockchain AI, Federated Learning, System Engineering Docs, GPT API, Function Calling, **Model Context Protocol (MCP)**
+**Languages**: Python, SQL, C, C++  
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Flask  
+**Tools**: Docker, Azure, Git, OpenAI SDK, CUDA, VS Code  
+**AI/NLP**: GPT APIs, Function Calling, LLM Evaluation  
+**Specialties**: Model Context Protocol (MCP), Federated Learning, Blockchain AI, AI System Engineering Docs
 
 ---
-## 📫 Let’s Connect!
-Always up for tech talk, collabs, or AI projects!
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam) or email me: **nizamfurkanegecan@gmail.com**
+## 📫 Let’s Connect!
+
+I'm always open to new ideas, research collabs, and impactful AI projects.  
+Let’s chat on [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam) or email me at **nizamfurkanegecan@gmail.com**
+
+---
