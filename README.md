@@ -31,6 +31,7 @@ Currently, I’m a **Data Science Intern at Jotform**, building tools to preview
 
 - 🚀 **Built Jotform’s AI Agent Preview Tool** (React + Flask): lets devs test AI Agent changes (knowledge, persona, actions) in real time. Used GPT to generate test prompts and automate validation.
 - ✈️ **Reduced compute time by 6×** at Türkiye’s leading aerospace company (TAI) using predictive AI systems.
+- 🎤 **Invited as a guest speaker**  to represent Computer Engineering in Turkish Aerospace’s nationwide program for high school graduates, sharing aerospace AI insights with hundreds of students.  
 - 🧠 **Developed AI Note-Taking Assistant** (GPT-4.1) with conversation-aware commands, smart highlights, and multi-note memory.
 - 🔐 **Designed secure federated learning protocol** with blockchain support for healthcare/finance-grade data privacy.
 - 📦 **Reduced return rates by 37%** via AI-driven body fit prediction for a Nordic fashion tech startup.
