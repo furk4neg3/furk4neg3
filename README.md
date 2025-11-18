@@ -1,67 +1,50 @@
-# 👨‍💻 Furkan Egecan Nizam
-**AI Engineer & Data Scientist**
+<!-- Header -->
+<h1 align="center">Hi, I'm Furkan 👋</h1>
+<h3 align="center">Systems Engineer & Data Scientist</h3>
 
-📍 Ankara, Türkiye  
-📧 nizamfurkanegecan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam)
-
----
-
-## 🚀 About Me
-
-I'm a Computer Engineering student at **Gazi University** (GPA: **3.91/4.00**) with deep interest and hands-on experience in **AI, data science, federated learning**, and **system-level engineering**. I’ve led impactful projects across **aerospace, transportation, and SaaS AI**, delivering measurable results through scalable, intelligent solutions.
-
-Currently, I’m a **Data Science Intern at Jotform**, building tools to preview and evaluate AI agent behavior in real-time. My focus is on **AI-driven workflows, protocol design**, and bridging the gap between model development and production deployment.
+<p align="center">
+  <a href="mailto:nizamfurkanegecan@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/furkan-egecan-nizam">LinkedIn</a> •
+  <a href="https://github.com/furk4neg3">GitHub</a>
+</p>
 
 ---
 
-## 🧠 What I Do
+## 🔍 Quick Facts
 
-- 🧠 **LLM-Powered App Development** (GPT, Function Calling, Prompt Engineering)
-- 🔒 **Federated Learning + Blockchain** for privacy-centric AI pipelines
-- ✈️ **Aerospace AI Systems** (real-time safety and prediction)
-- 📈 **Data Science for Transport, E-Commerce & Infrastructure**
-- 🧪 **Model Context Protocol (MCP)** design & tooling
-- ☁️ **Cloud & DevOps:** Azure, Docker, SQL, CI pipelines
-- 📄 **System Docs:** SRS, SSS, ICD for AI & embedded systems
+- 🎓 Computer Engineering @ Gazi University (3.91/4.00 GPA)
+- 🛰 Systems & AI experience in **aerospace, transportation, e-commerce, and gov**
+- 🧠 Interested in **AI agents, forecasting, federated learning, and safety-critical systems**
+- 🌍 Based in Türkiye  
+- 💬 Ask me about: AI system design, model deployment, data pipelines, system requirements
 
 ---
 
-## 🏆 Highlights
+## 🧰 Tech Stack
 
-- 🚀 **Built Jotform’s AI Agent Preview Tool** (React + Flask): lets devs test AI Agent changes (knowledge, persona, actions) in real time. Used GPT to generate test prompts and automate validation.
-- ✈️ **Reduced compute time by 6×** at Türkiye’s leading aerospace company (TAI) using predictive AI systems.
-- 🎤 **Invited as a guest speaker**  to represent Computer Engineering in Turkish Aerospace’s nationwide program for high school graduates, sharing aerospace AI insights with hundreds of students.  
-- 🧠 **Developed AI Note-Taking Assistant** (GPT-4.1) with conversation-aware commands, smart highlights, and multi-note memory.
-- 🔐 **Designed secure federated learning protocol** with blockchain support for healthcare/finance-grade data privacy.
-- 📦 **Reduced return rates by 37%** via AI-driven body fit prediction for a Nordic fashion tech startup.
-- 🚧 **Labeled transport datasets (95%+ accuracy)** and cut crash report delays by **91.6%**.
+**Languages**
+- Python, SQL, C/C++
 
----
+**ML / Data**
+- PyTorch, TensorFlow  
+- Time-series forecasting, classical ML, deep learning  
+- NLP, recommendation systems, anomaly detection
 
-## 🎓 Education
+**Systems & Architecture**
+- System design, SSS/SRS, requirements engineering  
+- Safety-critical systems, documentation, traceability
 
-**Gazi University**  
-*B.Sc. in Computer Engineering*  
-GPA: **3.91/4.00**  
-📍 Ankara, Türkiye  
-📅 2022 – 2026
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: Python, SQL, C, C++  
-**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Flask  
-**Tools**: Docker, Azure, Git, OpenAI SDK, CUDA, VS Code  
-**AI/NLP**: GPT APIs, Function Calling, LLM Evaluation  
-**Specialties**: Model Context Protocol (MCP), Federated Learning, Blockchain AI, AI System Engineering Docs
+**Tools & Platforms**
+- Git, GitHub, Docker  
+- Jupyter, VS Code  
+- REST APIs, microservices, CI/CD basics
 
 ---
 
-## 📫 Let’s Connect!
+## ✅ What I’m Open To
 
-I'm always open to new ideas, research collabs, and impactful AI projects.  
-Let’s chat on [LinkedIn](https://www.linkedin.com/in/furkan-egecan-nizam) or email me at **nizamfurkanegecan@gmail.com**
+- 🛠 Collaborating on **AI tools, agents, and system-level projects**
+- 🧪 Experimenting with **LLMs in production-like workflows**
+- 🛰 Applying AI in **transportation, aerospace, and critical infrastructure**
 
----
+If any of that matches what you’re building, feel free to reach out 🚀
