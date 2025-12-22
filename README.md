@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Ege 👋</h1>
-<h3 align="center">Systems Engineer & Data Scientist</h3>
+<h3 align="center">Systems Engineer & AI Engineer</h3>
 
 <p align="center">
   <a href="mailto:nizamfurkanegecan@gmail.com">Email</a> •
@@ -13,7 +13,7 @@
 ## 🔍 Quick Facts
 
 - 🎓 Computer Engineering @ Gazi University (3.91/4.00 GPA)
-- 🛰 Systems & AI experience in **aerospace, transportation, e-commerce, and gov**
+- 🛰 Systems Engineering, RMST & AI experience in **aerospace, transportation, e-commerce, and gov**
 - 🧠 Interested in **AI agents, forecasting, federated learning, and safety-critical systems**
 - 🌍 Based in Türkiye  
 - 💬 Ask me about: AI system design, model deployment, data pipelines, system requirements
@@ -33,6 +33,7 @@
 **Systems & Architecture**
 - System design, SSS/SRS, requirements engineering  
 - Safety-critical systems, documentation, traceability
+- Analyzing FMECAs, automating the analysis of FMECAs
 
 **Tools & Platforms**
 - Git, GitHub, Docker  
