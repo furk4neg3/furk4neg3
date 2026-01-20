@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Ege 👋</h1>
-<h3 align="center">Reliability & Testability Engineer & Systems Engineer & AI Engineer</h3>
+<h3 align="center">Reliability & Testability Engineer / Systems Engineer / AI Engineer</h3>
 
 <p align="center">
   <a href="mailto:nizamfurkanegecan@gmail.com">Email</a> •
